@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.text.PDFTextStripper"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.interactive.action.PDDocumentCatalogAdditionalActions"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDDocumentCatalog"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.encryption.PDEncryption"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDDocument"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.encryption.AccessPermission"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.encryption.StandardProtectionPolicy"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+</qualifiedTypeNameHistroy>
